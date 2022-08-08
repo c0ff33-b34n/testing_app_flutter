@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '/models/favorites.dart';
-import '/screens/favorites.dart';
+import '../models/favorites.dart';
+import 'favorites.dart';
 
 class HomePage extends StatelessWidget {
   static String routeName = '/';

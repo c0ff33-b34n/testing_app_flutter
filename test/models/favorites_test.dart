@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../../lib/models/favorites.dart';
+import 'package:testing_app_flutter/models/favorites.dart';
 
 void main() {
   group('Testing App Provider', () {
