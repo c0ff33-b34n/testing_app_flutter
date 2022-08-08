@@ -6,6 +6,6 @@ The app shows a list of items which you can favorite with the heart icon.
 The favorite list shows favorited items and allows removal of items from the favorite list.
 
 The app contains:
-    Unit tests to validate the add and remove operations
-    Widgets tests for the home and favorites pages
-    UI and performance tests for the entire app using integration tests
+- Unit tests to validate the add and remove operations
+- Widgets tests for the home and favorites pages
+- UI and performance tests for the entire app using integration tests
